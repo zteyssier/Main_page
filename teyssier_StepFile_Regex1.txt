@@ -1,0 +1,4 @@
+I search for the lines with 
+
+.+
+<line>\0</line>
