@@ -1,0 +1,3 @@
+start = ChristmasPlay
+ChristmasPlay = element ChristmasPlay {text}
+
